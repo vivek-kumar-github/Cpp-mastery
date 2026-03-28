@@ -1,0 +1,23 @@
+# Compiled Executables
+*.exe
+*.out
+*.app
+
+# Object Files
+*.o
+*.obj
+
+# IDE Folders
+.vscode/
+.idea/
+.vs/
+
+# Common build directories
+build/
+bin/
+debug/
+release/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
