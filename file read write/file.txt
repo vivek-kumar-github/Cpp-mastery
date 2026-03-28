@@ -1,1 +1,2 @@
 Hello! from file.txt
+Another line in file.txt
